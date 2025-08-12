@@ -52,3 +52,5 @@ Through this project, I learned:
 This project is based on the **Bankist App** from [Jonas Schmedtmann’s JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/).
 
 ---
+### Try it: 
+- [Bankist](https://moneybankistlearning.netlify.app/)
